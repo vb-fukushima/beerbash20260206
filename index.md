@@ -202,9 +202,12 @@ section {
 - **有料サービスも業務に役立つものは積極採用**
   - Cursorなど、生産性向上ツールの導入に前向き
 
+● ベトナム行きたい！で🇻🇳行くことに！
+● AI課金したい！で会社がお金払ってくれることに！
+
 </div>
 
-![w:1000](img/challenge.png)
+![w:1000](img/betonam.png)
 
 ---
 
@@ -225,9 +228,11 @@ section {
 - **弁護士の意見が聞ける**
   - 法律面での不安を解消できる貴重な環境
 
+
+
 </div>
 
-![w:1000](img/legal.png)
+![w:1000](img/lawyers.png)
 
 ---
 
@@ -249,15 +254,35 @@ section {
 
 ### beetechとの連携
 
-- **beetechというオフショアを活用中**
 - **beetechを買収済み**
-  - 結構自由に利用できる体制
-- **皆さんの仕事も受注して対応可能!**
-  - 開発リソースの柔軟な活用ができます
+  - 今後連携を強めていく、、、かも🦆
 
 </div>
 
-![w:1000](img/offshore.png)
+![w:1000](img/beetech.jpg)
+
+---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
+
+### beetechとの連携
+
+- **皆さんの仕事も受注して対応可能!**
+  - 開発依頼したい場合はお声掛けください！
+
+</div>
+
+![w:1000](img/jyutyuu.png)
 
 ---
 
@@ -280,11 +305,11 @@ section {
 ### コミュニケーション
 
 - **Slackメインで使ってない**
-  - エンジニアにとっては慣れが必要かも
+  - 一部利用してますが会社メインはchatworkです
 
 </div>
 
-![w:1000](img/communication.png)
+![w:1000](img/Chatwork_RGB_logo_horizontal_color.png)
 
 ---
 
@@ -303,9 +328,33 @@ section {
 ### 文化・手続き
 
 - **弁護士事務所ということでちょっとお硬い**
-  - ベンチャー文化とは少し違う雰囲気
 - **業務手続きが最初は複雑かも?**
-  - Redmineで週報と日報の両方記載など
+  - 書類を印刷して捺印提出
+  - Redmineで週報と日報の両方記載、など
+
+※ ただ、服装はめちゃ自由
+
+</div>
+
+![w:1000](img/捺印.png)
+
+---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
+
+### 文化・手続き
+
+
 
 </div>
 
@@ -328,12 +377,13 @@ section {
 ### 福利厚生
 
 - **健保がITSじゃない**
-  - ベンチャー系出身者には物足りないかも
-  - (ITSは福利厚生が充実していることで有名)
+  - ITベンチャー系出身者慟哭レベル
+
+寿司 一新(いっしん)に行けません。
 
 </div>
 
-![w:1000](img/benefits.png)
+![w:1000](img/sushi_issin.jpg)
 
 ---
 
@@ -356,7 +406,7 @@ section {
 
 </div>
 
-![w:1000](img/names.png)
+![w:1000](img/kurofuku.jpg)
 
 ---
 
@@ -372,6 +422,8 @@ section {
 ---
 
 ## ご清聴ありがとうございました! 🍺
+
+---
 
 <script>
 (function() {
