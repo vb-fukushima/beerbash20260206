@@ -31,27 +31,143 @@ style: |
 
 ---
 
+## 自己紹介
+
+---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
+
+### 福島はやと
+
+</div>
+
+![w:1000](img/remote.png)
+
+---
+
 ## 🎉 良いところ
 
 ---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
 
 ### リモートワーク & 環境
 
 - **ほぼフルリモート可能**
   - 柔軟な働き方ができる
+
+</div>
+
+![w:1000](img/remote.png)
+
+---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
+
+### リモートワーク & 環境
+
 - **支給されるMacがめっちゃいいやつ**
   - 開発環境に妥協なし
 
+● Apple M4 Max / メモリ36GB / ストレージ 1TB
+
+</div>
+
+![w:1000](img/mac_system.png)
+
 ---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
 
 ### 働きやすさ
 
 - **業務時間が7時間30分**
   - ワークライフバランス◎
-- **みんないい人**
-  - 働きやすい雰囲気
+
+定時勤務で7.5時間高速
+
+= お昼休み抜いたら**6.5時間勤務！**
+
+</div>
+
+![w:1000](img/work_time.png)
 
 ---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
+
+### 働きやすさ
+
+- **みんないい人**
+  - まじで。本当に、信じて、お願い✋️
+
+</div>
+
+![w:1000](img/good_tema.jpg)
+
+---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
 
 ### チャレンジできる環境
 
@@ -60,18 +176,76 @@ style: |
 - **有料サービスも業務に役立つものは積極採用**
   - Cursorなど、生産性向上ツールの導入に前向き
 
+</div>
+
+![w:1000](img/challenge.png)
+
+
 ---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
+
+### チャレンジできる環境
+
+- **手を上げれば任せてくれる!**
+  - 主体性を重視
+- **有料サービスも業務に役立つものは積極採用**
+  - Cursorなど、生産性向上ツールの導入に前向き
+
+</div>
+
+![w:1000](img/challenge.png)
+
+---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
 
 ### 法務の専門性
 
 - **弁護士の意見が聞ける**
   - 法律面での不安を解消できる貴重な環境
 
+</div>
+
+![w:1000](img/legal.png)
+
 ---
 
 ## 🌏 オフショア開発体制
 
 ---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
 
 ### beetechとの連携
 
@@ -81,18 +255,50 @@ style: |
 - **皆さんの仕事も受注して対応可能!**
   - 開発リソースの柔軟な活用ができます
 
+</div>
+
+![w:1000](img/offshore.png)
+
 ---
 
 ## 😅 悪いところ(改善の余地)
 
 ---
 
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
+
 ### コミュニケーション
 
 - **Slackメインで使ってない**
   - エンジニアにとっては慣れが必要かも
 
+</div>
+
+![w:1000](img/communication.png)
+
 ---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
 
 ### 文化・手続き
 
@@ -101,7 +307,23 @@ style: |
 - **業務手続きが最初は複雑かも?**
   - Redmineで週報と日報の両方記載など
 
+</div>
+
+![w:1000](img/culture.png)
+
 ---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
 
 ### 福利厚生
 
@@ -109,12 +331,32 @@ style: |
   - ベンチャー系出身者には物足りないかも
   - (ITSは福利厚生が充実していることで有名)
 
+</div>
+
+![w:1000](img/benefits.png)
+
 ---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
 
 ### その他
 
 - **名前と顔が永遠に一致しない**
   - リモートワークあるあるですね😅
+
+</div>
+
+![w:1000](img/names.png)
 
 ---
 
