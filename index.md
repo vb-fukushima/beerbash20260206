@@ -135,7 +135,6 @@ section {
 
 <span style="font-size: 1.3em;">30分早く帰れる幸せ</span>
 
-
 </div>
 
 ![w:1000](img/work_time.png)
