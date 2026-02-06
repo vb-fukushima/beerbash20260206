@@ -48,10 +48,11 @@ section {
 <div>
 
 ### 福島はやと
-
+- WEBクリエイティブ部 第２課 弁護士JPチーム
+  - 2025年11月1日(3ヶ月たったところ)
 - WEBエンジニア
   - PHP(Laravel)/JavaScript
-  - 一人でいるときは音楽orラジオ聞いてます。
+  - 一人でいるときは音楽 or ラジオ聞いてます。
 
 <span style="font-size: 0.7em;">脂肪がなくて毛根があるときの僕→</span>
 
@@ -59,6 +60,29 @@ section {
 </div>
 
 ![w:1000](img/its_me.jpg)
+
+---
+
+<style scoped>
+section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 60px;
+  align-items: center;
+  padding: 60px 80px;
+}
+</style>
+
+<div>
+
+### 普段の仕事
+
+- 弁護士JPというサイトの保守や、新規プロダクトの開発
+
+
+</div>
+
+![w:1000](img/ben54jp.png)
 
 ---
 
